@@ -1,2 +1,2 @@
-# Praktikum_PBOTUGAS1
+# Praktikum_PBO_TUGAS1
 Praktikum PBO
